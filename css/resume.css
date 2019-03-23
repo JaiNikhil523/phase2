@@ -1,0 +1,26 @@
+img{
+  height: 10%;
+  width: 10%;
+}
+body{
+  display: flex;
+  background-color: blue;
+}
+.right{
+  text-align: center;
+  justify-content: space-around;
+  width:65%;
+  height:60%;
+  box-shadow: 5px 5px 5px black;
+  border: 2px dotted black;
+}
+img{
+  width:80%;
+  border-radius: 10%;
+
+}
+.left{
+  text-align: center;
+  width:25;
+  border: 1px solid red;
+}

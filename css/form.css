@@ -1,0 +1,13 @@
+body{
+  background: #8AC5AB;
+}
+.main{
+  display :flex;
+  margin:2%;
+  padding: 2%;
+  width: 95%;
+}
+.main section{
+  width:95%;
+  border: 2px solid black;
+}
